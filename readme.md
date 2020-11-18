@@ -8,6 +8,8 @@ Simplistic bomberman-like game. Demolish walls and pickup diamnods.
  - 'W': Wall
  - 'D': Diamond
  - 'P': Player
+ - 'B': Bomb
+ - 'X': Explosion (not dangerous for player)
 
 # Controls
 
