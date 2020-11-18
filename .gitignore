@@ -1,0 +1,7 @@
+﻿################################################################################
+# Tento soubor .gitignore byl automaticky vytvořen aplikací Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ConsoleGame1
+/ConsoleGame1/bin/Debug/netcoreapp3.1
+/ConsoleGame1/obj
